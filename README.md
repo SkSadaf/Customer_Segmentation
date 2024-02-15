@@ -2,7 +2,7 @@
 **Customer Segmentation Web App**
 
 
-**Overview**
+_**Overview**_
 
 This web application allows users to perform customer segmentation on their datasets efficiently. It includes features such as user registration, login, and the ability to upload CSV files for clustering. The application leverages clustering algorithms like DBSCAN, Agglomerative Clustering, and K-Means to categorize customers based on their behavioral attributes.
 
