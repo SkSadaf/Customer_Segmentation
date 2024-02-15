@@ -1,5 +1,5 @@
 
-**Customer Segmentation Web App**
+<h3>**Customer Segmentation Web App**</h3>
 
 
 <ins>**Overview**</ins>
@@ -7,7 +7,7 @@
 This web application allows users to perform customer segmentation on their datasets efficiently. It includes features such as user registration, login, and the ability to upload CSV files for clustering. The application leverages clustering algorithms like DBSCAN, Agglomerative Clustering, and K-Means to categorize customers based on their behavioral attributes.
 
 
-**Technologies Used**
+<ins>**Technologies Used**</ins>
 
 Flask: Python web framework for building the application
 
@@ -26,7 +26,7 @@ HTML/CSS: Front-end design and user interface
 Bootstrap: Front-end framework for responsive and mobile-first web development
 
 
-**Features**
+<ins>**Features**</ins>
 
 **User Authentication:** Users can register and log in securely to access the segmentation features.
 
@@ -39,14 +39,14 @@ Bootstrap: Front-end framework for responsive and mobile-first web development
 **Cluster-wise Data:** After segmentation, users can download individual CSV files for each customer segment.
 
 
-**Requirements**
+<ins>**Requirements**</ins>
 
 Python 3.6 or higher
 
 Flask, SQLAlchemy, Scikit-learn, Pandas, Matplotlib, Bcrypt
 
 
-**Additional Information**
+<ins>**Additional Information**</ins>
 
 The application uses SQLite for database management, and the database file is named database.db.
 
