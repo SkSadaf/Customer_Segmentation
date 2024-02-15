@@ -1,5 +1,5 @@
 
-<h3>**Customer Segmentation Web App**</h3>
+<h3><b>Customer Segmentation Web App</b></h3>
 
 
 <ins>**Overview**</ins>
