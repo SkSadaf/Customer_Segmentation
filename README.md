@@ -9,21 +9,21 @@ This web application allows users to perform customer segmentation on their data
 
 <ins>**Technologies Used**</ins>
 
-Flask: Python web framework for building the application
+**Flask:** Python web framework for building the application
 
-SQLAlchemy: SQL toolkit for Python, used for database management
+**SQLAlchemy:** SQL toolkit for Python, used for database management
 
-Scikit-learn: Machine learning library for implementing clustering algorithms
+**Scikit-learn:** Machine learning library for implementing clustering algorithms
 
-Pandas: Data manipulation and analysis library for handling datasets
+**Pandas:** Data manipulation and analysis library for handling datasets
 
-Matplotlib: Data visualization library for generating clustering plots
+**Matplotlib:** Data visualization library for generating clustering plots
 
-Bcrypt: Hashing library for secure password storage
+**Bcrypt:** Hashing library for secure password storage
 
-HTML/CSS: Front-end design and user interface
+**HTML/CSS:** Front-end design and user interface
 
-Bootstrap: Front-end framework for responsive and mobile-first web development
+**Bootstrap:** Front-end framework for responsive and mobile-first web development
 
 
 <ins>**Features**</ins>
